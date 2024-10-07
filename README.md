@@ -11,6 +11,7 @@
 ### To do
 1. Create virtual enviroment
 2. Install required python libraries
-3. Read data
-4. Create basics statistics
-5. Make differences beteween each height values
+3. Get data from Milosz's pendrive :)
+4. Read data
+5. Create basics statistics
+6. Make differences beteween each height values
