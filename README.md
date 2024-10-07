@@ -14,4 +14,3 @@
 3. Get data from Milosz's pendrive :)
 4. Read data
 5. Create basics statistics
-6. Make differences beteween each height values
