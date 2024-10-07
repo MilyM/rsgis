@@ -13,4 +13,4 @@
 2. Install required python libraries
 3. Read data
 4. Create basics statistics
-5. Make diferences beeteween each height values
+5. Make differences beteween each height values
