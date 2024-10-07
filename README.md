@@ -1,4 +1,4 @@
-# Python and matlab for Geosciene
+# Python and matlab for Geoscience
 ###  Team
 * Miłosz Cygan - Leader
 * Weronika Budzisz
