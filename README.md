@@ -1,5 +1,1 @@
-# rsgis
-bu
-marynia hihi 
-KDKD
-ad
+here will be pretty readme
