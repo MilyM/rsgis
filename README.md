@@ -1,7 +1,7 @@
 # Python, Matlab for Geoscience
 ---
 ###  **Team**
-* ~~Miłosz Cygan~~ - Leader
+* Miłosz Cygan - Leader
 * Weronika Budzisz
 * Martyna Świercz
 * Kacper Duda
