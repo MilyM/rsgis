@@ -46,7 +46,7 @@ def create_pickle_disc(df: pd.DataFrame, output_path: str) -> None:
         output_path (str): path to write file
     """
     try:
-        df[['Z', 'geoportal1', 'up421']] = df[['Z', 'geoportal1', 'up421']].astype(np.float32) 
+        df = df.astype(np.float32) 
         df.to_pickle(output_path)
 
     except Exception as e:
@@ -102,7 +102,7 @@ if __name__ == '__main__':
     create_pickle_disc(df, 'out.pkl')
     get_pickle('out.pkl')
     show_plot(df)
-    
+
     
 
     
