@@ -7,8 +7,6 @@
 * Kacper Duda
 * Kacper Prusak
 
----
-
 ### ***To do:***
 1. Create virtual enviroment
 2. Install required python libraries
