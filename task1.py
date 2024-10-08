@@ -98,9 +98,13 @@ def show_plot(df: pd.DataFrame) -> None:
 
 if __name__ == '__main__':
     df = get_data('z_geoportal_up42.csv')
-    print(get_statistics(df))
     create_pickle_disc(df, 'out.pkl')
-    get_pickle('out.pkl')
+    df_pkl = get_pickle('out.pkl')
+    df['Z-geoportal'] = df['Z'] - df['geoportal1']
+    df['Z-up421'] = df['Z'] - df['up421']
+    df['geoportal-up421'] = df['geoportal1'] - df['up421']
+    print(get_statistics(df))
+   
     show_plot(df)
 
     
